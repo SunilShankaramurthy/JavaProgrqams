@@ -1,0 +1,58 @@
+simplejavaprograms_1/PatterM.java
+ simplejavaprograms_1.PatterM
+simplejavaprograms_1/PatternB.java
+ simplejavaprograms_1.PatternB
+simplejavaprograms_1/PatterZ.java
+ simplejavaprograms_1.PatterZ
+simplejavaprograms_1/PatternC.java
+ simplejavaprograms_1.PatternC
+simplejavaprograms/Factorial.java
+ simplejavaprograms.Factorial
+simplejavaprograms/ReverseString2.java
+ simplejavaprograms.ReverseString2
+simplejavaprograms/ReverseString.java
+ simplejavaprograms.ReverseString
+simplejavaprograms_1/diamondp2.java
+ simplejavaprograms_1.diamondp2
+simplejavaprograms_1/AlphabetPattern.java
+ simplejavaprograms_1.AlphabetPattern
+simplejavaprograms/palindrome.java
+ simplejavaprograms.palindrome
+simplejavaprograms_1/patternG.java
+ simplejavaprograms_1.patternG
+simplejavaprograms_1/PatterK.java
+ simplejavaprograms_1.PatterK
+simplejavaprograms/DiamondPatter.java
+ simplejavaprograms.DiamondPatter
+simplejavaprograms/DuplicateString.java
+ simplejavaprograms.DuplicateString
+simplejavaprograms_1/Even.java
+ simplejavaprograms_1.Even
+simplejavaprograms_1/PatternD.java
+ simplejavaprograms_1.PatternD
+simplejavaprograms/DiamondPattern2.java
+ simplejavaprograms.DiamondPattern2
+simplejavaprograms_1/PatternN.java
+ simplejavaprograms_1.PatternN
+simplejavaprograms_1/PatternV.java
+ simplejavaprograms_1.PatternV
+simplejavaprograms/riverseString_3.java
+ simplejavaprograms.riverseString_3
+simplejavaprograms/ReverseStringWords.java
+ simplejavaprograms.ReverseStringWords
+simplejavaprograms/DiamondPattern.java
+ simplejavaprograms.DiamondPattern
+simplejavaprograms/AlphabetPattern.java
+ simplejavaprograms.AlphabetPattern
+simplejavaprograms/APattern.java
+ simplejavaprograms.APattern
+simplejavaprograms/RiverseString2.java
+ simplejavaprograms.RiverseString2
+simplejavaprograms/fibonaci2.java
+ simplejavaprograms.fibonaci2
+simplejavaprograms/fibonacci.java
+ simplejavaprograms.fibonacci
+simplejavaprograms/factorial2.java
+ simplejavaprograms.factorial2
+simplejavaprograms/Palindormep2.java
+ simplejavaprograms.Palindormep2
